@@ -10,6 +10,6 @@ Application made using Express, deployed to Heroku. Allows the user to create an
 
 
 
-- Heroku https://dashboard.heroku.com/apps/powerful-ravine-31619
+- Heroku https://powerful-ravine-31619.herokuapp.com/
 - Github https://github.com/shanicesauce/note-taker/
 - Video WalkThrough  https://drive.google.com/file/d/1lWsU71l0tHvPR74W-gl9yiVluu6wSNwC/view
